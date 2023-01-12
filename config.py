@@ -1,2 +1,2 @@
 # US Census API Key
-census_key = "YOUR KEY HERE"
+geoapify_key = "365ebb0d2a7048d8a66ac1e4e063083e"
