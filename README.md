@@ -2,6 +2,8 @@
 
 Graph visualization is a vital tool for exploring and understanding crime data at scale.
 
+The crime data visulisations presented here are for the public to interpret as well as relevant criminal justice bodies. In an effort to prevent miss-information and public fear of crime.  
+
 References:
 
 Crime Statistics Agency 2022, Data Tables Family Incidents Visualisation Year Ending September 2022, accessed 7 January 2022, <https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data>.
