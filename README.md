@@ -1,5 +1,7 @@
 # Project-1 The effects of COVID-19 on crime trends in Victoria
 
+Graph visualization is a vital tool for exploring and understanding crime data at scale.
+
 References:
 
 Crime Statistics Agency 2022, Data Tables Family Incidents Visualisation Year Ending September 2022, accessed 7 January 2022, <https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data>.
