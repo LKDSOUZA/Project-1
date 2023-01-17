@@ -1,4 +1,4 @@
-# Project-1 The effects of COVID-19 on crime trends in Victoria
+# Project-1 The effect of COVID-19 on crime trends in Victoria
 
 Graph visualization is a vital tool for exploring and understanding crime data at scale.
 
